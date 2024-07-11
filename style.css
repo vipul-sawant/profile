@@ -1,0 +1,78 @@
+body
+{
+	background-color: #cce6ff;
+}
+
+.row
+{
+	padding: 0px 15px;
+}
+
+#profile
+{
+	text-align: center;
+	font-weight: bolder;
+	color: white;
+	font-family: sans-serif;
+	background: crimson;
+	margin: 0px;
+	padding: 5px;
+}
+
+.headings
+{
+	color: #339966;
+	font-family:serif;
+	font-weight: bolder;
+	font-size: 28px;
+}
+
+.option
+{
+	color: red;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.elements
+{
+	width: 100%;
+	padding: 5px 15px;
+	margin: 5px 0px 2.5px;
+	border-radius: 5px;
+	border: 1px solid #000;
+	background-color: #fff;
+}
+
+.elements:focus
+{
+	font-family: serif;
+	border: none;
+	box-sizing: border-box;
+	outline: none;
+	background-color: white;
+	padding: 5px 10px;
+	color: #000;
+	font-weight: bold;
+	font-size: 18px;
+}
+
+label
+{
+	color: #3366ff;
+	font-size: 22px;
+	font-weight: bold;
+}
+
+.file
+{
+	margin: auto;
+	width: auto;
+}
+
+#submit-btn
+{
+	margin: 10px 0px 5px;
+	text-align: center;
+	font-size: 36px;
+}
